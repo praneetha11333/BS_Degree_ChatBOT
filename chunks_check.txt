@@ -1,0 +1,708 @@
+Total chunks: 185
+Chunks > 512 tokens: 23
+Chunks <= 512 tokens: 162 | avg: 198.6 | min: 15 | max: 505
+
+Chunks < 50 tokens: 13
+  Chunk 39 | Tokens: 15 | Section: 12. Alumni Details
+  Content: 12. Alumni Details [Updated on 19-05-2025]
+  Chunk 41 | Tokens: 44 | Section: 12.2.1 Alum Card Benefits
+  Content: 12.2.1 Alum Card Benefits The IITM BS alumni card serves as the official identification for alumni of IIT Madras, symbolizing their affiliation with the institute and instilling a sense of pride.
+  Chunk 46 | Tokens: 40 | Section: 12.3 Discourse Forum Access
+  Content: 12.3 Discourse Forum Access Access to the Discourse Discussion Forum has been enabled for alumni students. Students can update their current email to their Alumnus Email and continue using their exist
+  Chunk 50 | Tokens: 22 | Section: 14.3 Policy on Advanced Certificate for Diploma Level Students
+  Content: 14.3 Policy on Advanced Certificate for Diploma Level Students [Updated on Jul 18, 2025 ]
+  Chunk 52 | Tokens: 39 | Section: 14.3.2 The Advanced Certificate will be awarded as:
+  Content: 14.3.2 The Advanced Certificate will be awarded as: - Diploma in Programming - Advanced Certificate in Programming and Application Development - Diploma in Data Science - Advanced Certificate in Machi
+  Chunk 79 | Tokens: 42 | Section: 20 . Re Entry after Diploma/Degree Exit
+  Content: 20 . Re Entry after Diploma/Degree Exit [updated on May 16, 2025] Policy on Rejoining IITM BS: Students Holding Original Senate-Sanctioned Diplomas/Degrees
+  Chunk 93 | Tokens: 38 | Section: 23.3 Internet Bandwidth
+  Content: 23.3 Internet Bandwidth A minimum of 2 MBPS connection is required to attend sessions without disruptions. However we strongly recommend broadband connections with much higher bandwidth for the best l
+  Chunk 100 | Tokens: 36 | Section: PGD/M.Tech introduction Meeting Link : Click Here
+  Content: PGD/M.Tech introduction Meeting Link : Click Here M.Tech Project Meeting link : Meeting Video Project Proposal PPT : PPT Link Project Details : Click here for the link
+  Chunk 102 | Tokens: 33 | Section: 27. Rules for non-campus BS students applying for the Nirmaan pre-incubation
+  Content: 27. Rules for non-campus BS students applying for the Nirmaan pre-incubation [updated on Dec 05, 2025] Click here to view
+  Chunk 107 | Tokens: 18 | Section: 30. Student Escalation Matrix
+  Content: 30. Student Escalation Matrix [updated on Jun 18, 2026 ]
+  Chunk 109 | Tokens: 37 | Section: Step 2: Follow Up on the Existing Ticket
+  Content: Step 2: Follow Up on the Existing Ticket If you have not received a response within 24 hours, you may follow up on the same ticket instead of creating a new one.
+  Chunk 111 | Tokens: 28 | Section: Level 1 Escalation
+  Content: Level 1 Escalation Email: akshaya@study.iitm.ac.in , nkavitha@code.iitm.ac.in
+  Chunk 113 | Tokens: 27 | Section: Level 3 Escalation
+  Content: Level 3 Escalation BS Degree Program Coordinators - Prof. Andrew Thangaraj - Prof. Vignesh M
+
+Large chunks:
+
+Chunk 0 | Tokens: 2047 | Section: General | Types: ['heading', 'paragraph']
+Chunk 11 | Tokens: 731 | Section: 3.6 Two new elective courses (4c) at the degree level | Types: ['unordered_list', 'heading', 'table', 'paragraph']
+Chunk 32 | Tokens: 565 | Section: 9.1 Credit Transfer for NPTEL Courses | Types: ['heading', 'table', 'ordered_list', 'paragraph']
+Chunk 34 | Tokens: 538 | Section: (**This will be in effect from January 2024**) | Types: ['unordered_list', 'heading']
+Chunk 36 | Tokens: 637 | Section: 9.4 Important Advisory for Credit Transfer Courses | Types: ['unordered_list', 'heading', 'paragraph']
+Chunk 37 | Tokens: 867 | Section: 10.  Learner Life Cycle | Types: ['unordered_list', 'heading', 'paragraph']
+Chunk 56 | Tokens: 569 | Section: 15.3 Evaluation and grading of courses in every term | Types: ['unordered_list', 'heading', 'ordered_list', 'paragraph']
+Chunk 60 | Tokens: 583 | Section: 15.7 Repeating a course | Types: ['unordered_list', 'heading', 'ordered_list', 'paragraph']
+Chunk 70 | Tokens: 730 | Section: 17. Changes in project grading | Types: ['heading', 'table', 'ordered_list', 'paragraph']
+Chunk 75 | Tokens: 1275 | Section: 18.5 Checkpoints in the Foundation and Diploma level | Types: ['heading', 'table', 'ordered_list', 'paragraph']
+Chunk 76 | Tokens: 593 | Section: 18.6 Checkpoints in entering the Degree level | Types: ['unordered_list', 'heading', 'ordered_list', 'paragraph']
+Chunk 78 | Tokens: 580 | Section: 19. Eligibility Criteria Prize | Types: ['heading', 'paragraph']
+Chunk 89 | Tokens: 697 | Section: 22. Apprenticeship in the BS level of IIT Madras’ BS in Data Science and Applications | Types: ['heading', 'ordered_list', 'paragraph']
+Chunk 117 | Tokens: 551 | Section: General | Types: ['heading', 'table', 'paragraph']
+Chunk 120 | Tokens: 955 | Section: Information about course grades: | Types: ['heading', 'ordered_list', 'paragraph']
+Chunk 128 | Tokens: 929 | Section: 7 . Programming in Python (CS1002) | Types: ['heading', 'table', 'ordered_list', 'paragraph']
+Chunk 130 | Tokens: 785 | Section: Suggested pathway to register and study Diploma level courses: | Types: ['unordered_list', 'heading', 'table', 'ordered_list', 'paragraph']
+Chunk 137 | Tokens: 525 | Section: 7. P rogramming Data structures and algorithms using Python (PDSA) - Diploma in Programming (CS2002) | Types: ['heading', 'paragraph']
+Chunk 138 | Tokens: 567 | Section: 8. Database management s ystem (DBMS) - Diploma in Programming  (CS2001) | Types: ['unordered_list', 'heading', 'table', 'paragraph']
+Chunk 140 | Tokens: 682 | Section: 10. Programming concepts using Ja va (Diploma in program ming) (CS2005) | Types: ['heading', 'table', 'paragraph']
+Chunk 141 | Tokens: 890 | Section: 11. System commands (Diploma in programming)  (SE2001) | Types: ['unordered_list', 'heading', 'table', 'paragraph']
+Chunk 147 | Tokens: 700 | Section: Degree Level courses | Types: ['heading', 'paragraph']
+Chunk 160 | Tokens: 566 | Section: 13 . Industry 4.0   (MS4001) | Types: ['unordered_list', 'heading', 'table', 'ordered_list', 'paragraph']
+
+--- Chunk 1 | General | types: ['heading', 'paragraph'] ---
+IITM BS Degree Office, 3rd Floor, ICSR Building, IIT Madras, Chennai - 600036                              support@study.iitm.ac.in Models (LLM) P lease read this carefully Table of Contents A)   Data Science & Applications        7 1.    Highlights of the programme        7 2.    Flexibility       
+
+--- Chunk 2 | A) Data Science & Applications | types: ['unordered_list', 'heading', 'paragraph'] ---
+A) Data Science & Applications IIT Madras has launched the BS in Data Science and Applications. In this program, the course contents are delivered online and can be studied by anyone from anywhere, while the monthly quizzes and final semester exams will have to be attended in-person at designated ce
+
+--- Chunk 3 | 1.    Highlights of the programme | types: ['heading', 'paragraph'] ---
+1.    Highlights of the programme Courses are taught by faculty of IIT Madras/other reputed institutes as well as experts from the industry. Unlike many competitive admission exams which work on the philosophy of elimination and selection and admit a very limited number of learners into various prog
+
+--- Chunk 4 | 2.    Flexibility | types: ['heading', 'paragraph'] ---
+2.    Flexibility There are two entry and four exit points, with learners being able to exit with either course certificates, or diploma or the degree. Learners can choose their pace of study every term. Being an online programme, there is no geographical barrier to learning from this programme - le
+
+--- Chunk 5 | 3.1 D efinition of credit in the program | types: ['heading', 'paragraph'] ---
+3.1 D efinition of credit in the program The credits here are based on the UGC system of counting 14 hours of learner engagement as 1 credit. (1 credit mentioned here would be equivalent to 3 credits in the current IITM campus Credit system.) The number of credits required to graduate with the BSc i
+
+--- Chunk 6 | 3.2 Level 1: The Foundation level | types: ['unordered_list', 'heading'] ---
+3.2 Level 1: The Foundation level - Comprises 8 courses - English 1, English 2, Mathematics 1, Mathematics 2, Statistics 1, Statistics 2, Computational Thinking, Introduction to Python - Number of credits: 32
+
+--- Chunk 7 | 3.3 Level 2: Diploma level | types: ['unordered_list', 'heading'] ---
+3.3 Level 2: Diploma level - Includes 2 Diplomas - Diploma in Programming and Diploma in Data Science - Each diploma comprises 6 courses (23 credits) and 2 project courses (4 credits) - Number of credits: 54
+
+--- Chunk 8 | Diploma in Programming | types: ['unordered_list', 'heading'] ---
+Diploma in Programming - Database management systems (DBMS), Programming Data Structures and Algorithms using Python (PDSA), Java programming, System Commands, Application development - 1, Application Development - 2 - Project course in Application Development - 1 - Project course in Application Dev
+
+--- Chunk 9 | (All the courses and Project are mandatory) | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['Option 1 (6 credits)', 'Option 2 (6 credits)']
+Rows: [['Business Analytics (4 Credits)', 'Introduction to Deep Learning and Generative AI (4 Credits) BSDA2001 Co Requisite : MLP'], ['Business Data Management Project. (2 Credits)', 'Deep Learning and Generative AI project (2 Credits) BSDA2001P Corequisite : DL-Gen AI Theory']]
+(All the courses and Project are mandatory) - Machine Learning Foundations (MLF), Machine Learning Techniques (MLT), Machine Learning Practice (MLP), Business Data Management (BDM), , Tools in Data Science (TDS) - Project course in Machine Learning Practice - W.e.f Sep 2025, along with Business Anal
+
+--- Chunk 10 | 3.4 Level 3: BSc Degree level courses | types: ['unordered_list', 'heading', 'paragraph'] ---
+3.4 Level 3: BSc Degree level courses - Total of 28 credits - Mandatory 2 core pairs ( Software Engineering, Software Testing, Artificial Intelligence and Deep Learning) - Mandatory course: Strategies for professional growth - Maximum of 4 credits can be obtained from NPTEL, technical bucket Note : 
+
+--- Chunk 11 | 3.5 Level 4: BS Degree level courses | types: ['unordered_list', 'heading', 'ordered_list', 'paragraph'] ---
+3.5 Level 4: BS Degree level courses - Total of 28 credits - Option of Apprenticeship - for 4/12 credits - Mandatory to earn 4 credits from HS/MG stream , from NPTEL or program electives - 2 level 4 or higher courses in programming stream and 2 level 4 or higher  courses in the data science stream s
+
+--- Chunk 12 | 3.6 Two new elective courses (4c) at the degree level | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['Course no.', 'Course name', 'Category', 'Credits (pre-2015)', 'Prerequisites']
+Rows: [['BSDA4001', 'Data Science and AI Lab', 'BD', '4', 'Deep Learning'], ['BSCS4010', 'Application Development Lab', 'BP', '4', 'Diploma in programming']]
+3.6 Two new elective courses (4c) at the degree level Completely hands-on courses with weekly graded assignments along with a project + viva Will have additional industry relevant topics - prepares you to attend job interviews Enrollment limit: There will be a limit on the number of students who can
+
+--- Chunk 13 | 4. Fees for the entire programme | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['Level', 'Theory', 'Project', 'Apprenticeship', 'NPTEL', 'MG/HS/HM']
+Rows: [['Foundation', '32', '', '', '', ''], ['Diploma in DS', '23', '4', '', '', '']]
+4. Fees for the entire programme - First year fees kept low to enable learners to try out the programme - Entry fee for Qualifier exam: Rs. 4000 (non-refundable) - with suitable waivers - Fee waivers for learners belonging to certain categories and economic backgrounds Number of credits in each leve
+
+--- Chunk 14 | 4.1.Existing Fees for the students who joined the program till Sep 2025 Term : | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'Cost per credit (Rs)', 'Number of credits', 'Total fee', 'Level fees']
+Rows: [['Foundation', '1000/c', '32c', '32000', '32', '000'], ['Diploma', '2500/c for Theory 1250/c for project', '23x2=46c 4x2 = 8c', '115', '000 10', '000', '125', '000']]
+4.1.Existing Fees for the students who joined the program till Sep 2025 Term : Foundation: Rs 32000/- Diploma Level: 62500 x 2 = Rs 125,000/- BSc Level: Rs 2.21L - 2.47L BS Level: 3.25L - 3.87L
+
+--- Chunk 15 | 4.2.Revised Fees for the students who join the foundation level from Jan 2026 Term  onwards : | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'Family Income > 5 LPA', 'Family Income > 1 LPA and <= 5 LPA', 'Family Income <= 1 LPA']
+Rows: [['Foundation', '32', '₹48', '000'], ['Foundation + One Diploma', '59', '₹129', '000']]
+4.2.Revised Fees for the students who join the foundation level from Jan 2026 Term  onwards : Fee waivers depend on the category of learner and family income SBI Loan Process: SBI WhatsApp BANKING: +91 9022690226 (Balance Enquiry | Mini Statement | & more...) Step1: Send SMS as WAREG<space><11digit 
+
+--- Chunk 16 | 4.3 For students who are outside India: | types: ['heading', 'paragraph'] ---
+4.3 For students who are outside India: Facilitation fee for exams is in addition to the above for candidates writing exams overseas Facilitation Fee Quiz1 [irrespective of num of courses] = Rs.2000/- Quiz2  [irrespective of num of courses] = Rs.2000/- End term [per session] = Rs.2000/- [one course 
+
+--- Chunk 17 | 5.1 Regular Entry into Foundation level | types: ['heading', 'paragraph'] ---
+5.1 Regular Entry into Foundation level To enter the Foundation level, applicants have to pass the Qualifier exam. The Foundation courses allow for interested applicants with a variety of educational backgrounds to be trained in the basics (Math, Statistics, Computational Thinking, Python programmin
+
+--- Chunk 18 | 5.1.1 Eligibility to Apply for the Qualifier Exam | types: ['heading', 'ordered_list', 'paragraph'] ---
+5.1.1 Eligibility to Apply for the Qualifier Exam Minimum eligibility: Should have studied Mathematics and English in Class 10. 1. Anyone who has passed Class 12 or equivalent can apply irrespective of age or academic background. Those who qualify can join the program immediately. View list of accep
+
+--- Chunk 19 | 5.1.2 Preparation for the Qualifier exam | types: ['heading', 'paragraph'] ---
+5.1.2 Preparation for the Qualifier exam All regular entry applicants must go through the 4 week Qualifier Process to earn admission to the Foundation Level. On the start date of the qualifier process week 1,  access to the content for the four Foundation level courses - English 1, Maths-1, Statisti
+
+--- Chunk 20 | 5.1.3 Eligibility to appear for the qualifier exam | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'Minimum Average Assignment Score required in each course']
+Rows: [['General Learner', '40%'], ['SC / ST / PwD with 40% disability', '30%']]
+5.1.3 Eligibility to appear for the qualifier exam At the end of the 4 weeks, a qualifier exam will be conducted for eligible candidates based on the content covered in the 4 weeks of study. Each assignment will be graded out of 100 Any assignment that is not attempted will be marked as 0. There is 
+
+--- Chunk 21 | 5.1.4 Criteria for passing the qualifier exam | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'Min. Req. Qualifier Exam Score in each course', 'Min. Req. Average Qualifier Exam Score']
+Rows: [['General Learner', '40%', '50%'], ['SC / ST / PwD with 40% disability', '30%', '40%']]
+5.1.4 Criteria for passing the qualifier exam In the qualifier exam comprising 4 subjects, the learner should obtain marks >= individual subject cut-off as shown below. The total of all subject marks should be greater than the total cut-off. The cutoff marks are clearly specified for the different c
+
+--- Chunk 22 | 5.1.5 Validity of the qualifier score | types: ['heading', 'paragraph'] ---
+5.1.5 Validity of the qualifier score The qualifier marks will be valid for the 3 terms that come subsequent to the qualifier exam date for the learner to register to the Foundation level. This score will be invalid after this period and the learner will have to go through the entire qualifier proce
+
+--- Chunk 23 | 5.1.6  Communication about qualifier exam results | types: ['heading', 'paragraph'] ---
+5.1.6  Communication about qualifier exam results Those who have qualified as per the above process will be intimated through email and whatsapp and within their login on the portal - if they are eligible to register further. An admission letter will also be generated and provided to each qualified 
+
+--- Chunk 24 | 5.1.7 Second attempt: If a candidate was absent or failed the first attempt of qualifier exam | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['General Category / OBC Applicant', '₹2000 re-attempt fee']
+Rows: [['SC / ST Category / PwD (>= 40% disability ) Applicant', '₹1000 re-attempt fee'], ['SC / ST Category Applicant who is ALSO PwD (>= 40% disability )', '₹500 re-attempt fee']]
+5.1.7 Second attempt: If a candidate was absent or failed the first attempt of qualifier exam There are two attempts within any term currently. In every term, qualifier exams are conducted at the end of 4 weeks and at the end of 8 weeks. Eligibility to apply for Reattempting Qualifier exam within th
+
+--- Chunk 25 | 5.1.8 Candidates who did not become eligible for Qualifier exam | types: ['heading', 'paragraph'] ---
+5.1.8 Candidates who did not become eligible for Qualifier exam There are no limits on the number of times a candidate can attempt the qualifier process. The candidate can attempt again the subsequent terms. They have to pay the full fees as per the fee norms applicable for their category. (and addi
+
+--- Chunk 26 | 5.1.9 Options to register to courses once qualified | types: ['unordered_list', 'heading', 'paragraph'] ---
+5.1.9 Options to register to courses once qualified - Candidates who qualify in the first attempt within a term - have the option to register to courses and continue with completing them in the same term. In this case, qualifier score is treated as Quiz1 score to calculate the Final score. - Have th
+
+--- Chunk 27 | 5.2 JEE -based Entry into Foundation Level | types: ['unordered_list', 'heading', 'paragraph'] ---
+5.2 JEE -based Entry into Foundation Level There is a direct entry into the Foundation level of the program for students who have qualified for the JEE Advanced Exams. Currently the validity of this is for the 3 terms following the release of the JEE Advanced Eligibility list. Candidates who qualifi
+
+--- Chunk 28 | 6.   Credit Clearing Capability | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['Marks M (as defined above)', 'Maximum number of courses that learner is permitted to register in any term']
+Rows: [['0 <= M< 50', '2'], ['50 <= M< 70', '3']]
+6.   Credit Clearing Capability The credit clearing capability is a suggestion and not mandatory. The value S used to determine the maximum number of courses that the learner is suggested to register in a term is calculated as shown below. - Term 1: decided by qualifier marks - Term 2: decided by av
+
+--- Chunk 29 | 7.   Course registration - steps involved | types: ['unordered_list', 'heading', 'paragraph'] ---
+7.   Course registration - steps involved Students who are continuing with the program will go through the following steps to sign up for the courses: - Within the registration window, students will pick the courses they want to take in the coming term, with limiting criteria on total courses regist
+
+--- Chunk 30 | 8.   Direct Entry into Diploma programme | types: ['heading', 'paragraph'] ---
+8.   Direct Entry into Diploma programme For those who have the foundations to enter the Diploma programme directly and those who wish to do just the Diploma and exit with it, this is a pathway. It is primarily aimed at working professionals or learners who already possess the fundamentals taught in
+
+--- Chunk 31 | 8.1  Eligibility to Apply | types: ['heading', 'paragraph'] ---
+8.1  Eligibility to Apply Students who have completed 2 years in any UG degree programme are permitted to apply to the diploma level through direct entry. Their second year marksheet or higher must be submitted as proof to qualify under this category.
+
+--- Chunk 32 | 8.2 Qualifying Process | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['', 'Fees for the DAD qualifier exam', 'Minimum required Qualifier Exam Score in each subject', 'Cut off marks required in DAD Qualifier exam']
+Rows: [['GEN / OBC-CL', 'Rs 6000/-', '40%', '50/100'], ['SC/ST/PwD', 'Rs 3000/-', '30%', '40/100']]
+8.2 Qualifying Process 1. A separate Direct Admission to Diploma (DAD) qualifier exam will be conducted for the Diploma in programming (DP) and Diploma in Data Science (DS). 2. These are conducted on the same date as the end term examinations of the IITM BS DS program. Hence these are conducted thre
+
+--- Chunk 33 | 9.1 Credit Transfer for NPTEL Courses | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['', 'Pass/Fail OR Grade?', 'Counted towards credits', 'Counted for CGPA Calc', 'Fee', 'When can you join NPTEL?', 'When can you claim credit?']
+Rows: [['January', 'September'], ['July', 'January']]
+9.1 Credit Transfer for NPTEL Courses The following process is to be followed for credit transfer from NPTEL: 1. An NPTEL course of duration 4/8/12 weeks carries credit equivalence of 1/2/3 credits in the BS degree program. 2. The learner must  register for the NPTEL exam using the @ds.study.iitm.ac
+
+--- Chunk 34 | Table 3: SWAYAM NPTEL courses Applicable under HS/MG   category for crediting in the BS level | types: ['heading', 'paragraph'] ---
+Table 3: SWAYAM NPTEL courses Applicable under HS/MG   category for crediting in the BS level Upto a maximum of 4 credits can be credited under the HM category in the BS degree level, which can be done from NPTEL or courses within the program. (Refer Credit Transfer for NPTEL Courses ) SWAYAM NPTEL 
+
+--- Chunk 35 | (**This will be in effect from January 2024**) | types: ['unordered_list', 'heading'] ---
+(**This will be in effect from January 2024**) - The on campus courses are offered by the participating institutes (like IITM,IITGn,IITPalakkad,CMI,IIT Ropar,IIITH) for the respective semester. - The courses offered by the respective institutes will be collated by the IITMBS Degree team and the stud
+
+--- Chunk 36 | 9.3 Comprehensive Exam courses | types: ['heading', 'ordered_list', 'paragraph'] ---
+9.3 Comprehensive Exam courses 2 new 2-credit courses (Level 4) introduced as Electives in the degree level 1. BSDA4002 Comprehensive Exam - Data Science & Artificial Intelligence (BD) 1. write the GATE-DA exam 2. are in the top 1 percent of all students who appeared in the GATE-DA paper that year 3
+
+--- Chunk 37 | 9.4 Important Advisory for Credit Transfer Courses | types: ['unordered_list', 'heading', 'paragraph'] ---
+9.4 Important Advisory for Credit Transfer Courses We strongly recommend planning your credit transfer courses in the term prior to your level completion term. This is because result release dates often don't align with course registration timelines. For instance, if you take a credit transfer cours
+
+--- Chunk 38 | 10.  Learner Life Cycle | types: ['unordered_list', 'heading', 'paragraph'] ---
+10.  Learner Life Cycle Once a learner clears the qualifier, he/she will be eligible to register for the Foundation level. Using their personal email id, they register to as many courses as permitted by CCC and make the payment. After approval of the uploaded documents, the learner is given a roll_n
+
+--- Chunk 39 | 11.1 Exit form window and senate date : [Updated on June 01, 2026] | types: ['unordered_list', 'heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['Senate date', 'Next Exit form Open', 'Exit form closure', 'Certificate Processing Timeline ( Tentative)']
+Rows: [['June 12', '2026', 'March 23', '2026', 'April 28', '2026', 'September 15', '2026'], ['August 21', '2026', 'June 20', '2026', 'July 15', '2026', 'November 25', '2026']]
+11.1 Exit form window and senate date : [Updated on June 01, 2026] Senate approval is required before the original certificate can be generated. IIT Madras Senate meetings are held three to four times a year. Please refer to the timeline below for the certificate issue date. Note: Students who have 
+
+--- Chunk 40 | 12. Alumni Details | types: ['heading', 'paragraph'] ---
+12. Alumni Details [Updated on 19-05-2025]
+
+--- Chunk 41 | 12.1 Eligibility and Payment | types: ['unordered_list', 'heading'] ---
+12.1 Eligibility and Payment - Only Degree Level students who have completed all the credit requirements for the BSc / BS levels are eligible to apply for an IITM Alumni card. - Once the credit requirements are verified, students will be notified to register in the IIT Madras Alumni Association (IIT
+
+--- Chunk 42 | 12.2.1 Alum Card Benefits | types: ['heading', 'paragraph'] ---
+12.2.1 Alum Card Benefits The IITM BS alumni card serves as the official identification for alumni of IIT Madras, symbolizing their affiliation with the institute and instilling a sense of pride.
+
+--- Chunk 43 | 12.2.2 Importance of the Alumni Card | types: ['heading', 'ordered_list', 'paragraph'] ---
+12.2.2 Importance of the Alumni Card The alumni card is essential for various purposes, including: 1. Access to IITM Campus: Required for entry whenever needed. 2. Guest House Booking: Necessary for booking the Taramani Guest House. 3. Transcript Applications: Required to apply for your academic tra
+
+--- Chunk 44 | 12.2.3 Exclusive Benefits | types: ['heading', 'ordered_list', 'paragraph'] ---
+12.2.3 Exclusive Benefits Having an alumni card grants access to numerous programs and benefits, such as: 1. Participation in Free Programs: 1. Mentor in CLIC (Career and Life Coaching for Students) 2. Mentor in YAARI 3. Lifelong Learning Sessions 4. WE CARE Events 5. GURU Talks 6. Alumni Expert Ser
+
+--- Chunk 45 | 12.2.4 Event Participation | types: ['heading', 'ordered_list', 'paragraph'] ---
+12.2.4 Event Participation The alumni card also allows participation in various events and programs, including: 1. Travel Opportunities: Join IITMAA holidays around the world. 2. Reunions: Attend reunions on campus or at various locations. 3. Global Chapter Events: Participate in events organized by
+
+--- Chunk 46 | 12.2.5 Additional Benefits | types: ['heading', 'ordered_list', 'paragraph'] ---
+12.2.5 Additional Benefits 1. Group Insurance Policies: Enroll in group insurance plans. 2. Discounts at IITM Gift Shop: Enjoy discounts when shopping at the IITM gift shop. This comprehensive list underscores the significance of obtaining and maintaining your IITMAA alumni card, ensuring you stay c
+
+--- Chunk 47 | 12.3 Discourse Forum Access | types: ['heading', 'paragraph'] ---
+12.3 Discourse Forum Access Access to the Discourse Discussion Forum has been enabled for alumni students. Students can update their current email to their Alumnus Email and continue using their existing accounts.
+
+--- Chunk 48 | 13.  Design of certificates for the 6 levels of the program | types: ['heading', 'paragraph'] ---
+13.  Design of certificates for the 6 levels of the program The design has been finalised for the 4 levels of certificates, as shown on the website. Design for Credit Completion Letter: Effective Jan 2026 term : (updated on Jan 13th,2026) After a review of all documents by the Academic section of th
+
+--- Chunk 49 | 14.1 Types of documents | types: ['heading', 'ordered_list', 'paragraph'] ---
+14.1 Types of documents There will be 2 types of documents that will be made available automatically. 1. Term wise Progress card This document will list all the courses taken by the learner term wise. The values for every course will be course code, course name, level, grade obtained. Note that the 
+
+--- Chunk 50 | 14.2 Procedure to Apply for Official Transcript & Bonafide Certificate | types: ['heading', 'paragraph'] ---
+14.2 Procedure to Apply for Official Transcript & Bonafide Certificate Students who are interested in applying for a transcript/bonafide certificate have to follow these steps. Note that these certificates will be issued every Thursday. Students have to plan suitably and contact us. Please refer the
+
+--- Chunk 51 | 14.3 Policy on Advanced Certificate for Diploma Level Students | types: ['heading', 'paragraph'] ---
+14.3 Policy on Advanced Certificate for Diploma Level Students [Updated on Jul 18, 2025 ]
+
+--- Chunk 52 | 14.3.1 Policy on Advanced Certificate | types: ['heading', 'paragraph'] ---
+14.3.1 Policy on Advanced Certificate To address the situation where Diploma-level students exit the program without completing their projects and thus receive no certification for their completed coursework, we are now offering an " Advanced Certificate " for those who successfully complete the the
+
+--- Chunk 53 | 14.3.2 The Advanced Certificate will be awarded as: | types: ['unordered_list', 'heading'] ---
+14.3.2 The Advanced Certificate will be awarded as: - Diploma in Programming - Advanced Certificate in Programming and Application Development - Diploma in Data Science - Advanced Certificate in Machine Learning and Data Science
+
+--- Chunk 54 | 14.3.3 Eligibility Criteria | types: ['heading', 'ordered_list'] ---
+14.3.3 Eligibility Criteria 1. Students who have completed all 6 theory courses of the Diploma in Programming , with one or both projects pending , will be awarded the Advanced Certificate in Programming and Application Development . 2. Students who have completed all 6 theory courses of the Diploma
+
+--- Chunk 55 | 15.1  Academic calendar | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['Category', 'Payment', 'Category Waiver', 'Grade']
+Rows: [['New Registration', '2500', 'Yes', 'Actual grade'], ['Fee for Level 1 or 2 reattempt', '1000', 'No', 'Actual grade']]
+15.1  Academic calendar 1. There will be 3 terms every year - Jan-Apr, May-Aug and Sep-Dec. 2. All the foundation, diploma level courses, the mandatory courses of the BSc level will be offered in every term. * While 36 months (3 years/9 terms) is time permitted for completion of any level, 96 months
+
+--- Chunk 56 | 15.2 Course structure suitable for online delivery | types: ['heading', 'paragraph'] ---
+15.2 Course structure suitable for online delivery All courses of 4 credits will be of duration 12 weeks. The recorded content which is released every week will be for a total of about 2-4 hours, split into multiple lectures which includes the theory and tutorial videos. All videos are copyrighted t
+
+--- Chunk 57 | 15.3 Evaluation and grading of courses in every term | types: ['unordered_list', 'heading', 'ordered_list', 'paragraph'] ---
+15.3 Evaluation and grading of courses in every term Each course has 3 types of assessments - online weekly assignments, monthly in-person proctored quizzes and an in-person end term exam. 1. Online assignments: - A 12 week course will have one or more weekly assignments to be submitted online withi
+
+--- Chunk 58 | 15.4 Exam Center Policy | types: ['heading', 'ordered_list', 'paragraph'] ---
+15.4 Exam Center Policy [Updated on Jul 15, 2025 ] 1. For Students Appearing for Exams Within India Students must report only to the exam center assigned to them, as mentioned in their hall ticket. Reporting to any center other than the assigned one is strictly not permitted . Students arriving at a
+
+--- Chunk 59 | 15.5 Exam Date Clashes between Programs : | types: ['heading', 'paragraph'] ---
+15.5 Exam Date Clashes between Programs : Exam Date clashes between NPTEL, IITM's non-campus BS programs, and web-enabled MTech programs [Updated on Jul 18, 2025] The exam dates for IITM's non-campus BS programs, web-enabled MTech programs, and some NPTEL courses will fall on the same day.  It is so
+
+--- Chunk 60 | 15.6 Pass criteria for each course | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Condition satisfied by ‘T’ - Total Course Score (Out Of 100)', 'Status', 'Letter Grade', 'Grade point']
+Rows: [['(T ≥ 90)', 'Pass', 'S', '10'], ['(90 > T ≥ 80)', 'Pass', 'A', '9']]
+15.6 Pass criteria for each course Total Course Score (T) will be the sum of all assessment components in every course as defined in the Grading document of that term. A candidate is deemed to have passed a course IF Total Course Score (T) >=  40/100 This criteria is the same for all learners in the
+
+--- Chunk 61 | 15.7 Repeating a course | types: ['unordered_list', 'heading', 'ordered_list', 'paragraph'] ---
+15.7 Repeating a course 1. For improvement [Updated on Aug 28,2025] As per the new policy, the students can improve the grades obtained in courses of a level as long as they are within the same level and have not progressed to the next level. For eg: if a student completes the 8 courses of the found
+
+--- Chunk 62 | 15.7.1 Registering for Courses: Term 2 Onwards | types: ['unordered_list', 'heading'] ---
+15.7.1 Registering for Courses: Term 2 Onwards - Maximum number of final exams (full course+makeup exams) <= 4 - Maximum number of new + repeat full course (if failed/absent if reqd/improvement) <= CCC - Registering for new courses is subject to fulfilment of all rules and prerequisites. - If a stud
+
+--- Chunk 63 | 15.7.2 Repeating a Course - WA, WQ, U or I grade | types: ['heading', 'paragraph'] ---
+15.7.2 Repeating a Course - WA, WQ, U or I grade Applicable for courses with WA, WQ, U or I grade. You can choose to repeat courses in a single term or across multiple terms. You can also register for new courses in the term. The total number of courses must be within the CCC limit. Learners with an
+
+--- Chunk 64 | 15.7.3 Repeating a Course for Improvement | types: ['heading', 'paragraph'] ---
+15.7.3 Repeating a Course for Improvement Applicable for courses with A, B, C, D or E grade. You can choose to repeat courses to improve the grade in the course. The highest grade will be recorded in the transcript. The total number of courses must be within the CCC limit. Course fee Repeat for Impr
+
+--- Chunk 65 | 15.7.4 Make Up Exams | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['Registered Category', 'OPPE']
+Rows: [['Passed all', 'Yes', '', '', 'Not recommended but available'], ['Failed any/all', 'Yes', 'Yes', '']]
+15.7.4 Make Up Exams Applicable for courses with I grade. You can choose to take a Makeup Exam for a course with Incomplete (I) grade. Learners will only be required to reappear for the Final Exam for that course. The Makeup Exam does not count towards CCC, but a student can appear for a maximum of 
+
+--- Chunk 66 | ( This is not applicable for the students who are continuing after qualifier in the same term) | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['Level', 'Paid', 'Retained by IITM as Admin charges', 'Refund']
+Rows: [['Foundation', '4000', '2000', '2000'], ['', '2000', '2000', '0']]
+( This is not applicable for the students who are continuing after qualifier in the same term) Once the registration window closes in any term, adding courses will not be allowed. Dropping a course will be allowed within 4 weeks of the term start date and not beyond. Rs 2000 will be deducted if a Fo
+
+--- Chunk 67 | 16. Learning paths available | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['', 'Term', 'Foundation', 'Plan for One Diploma', 'Plan for Both the Diplomas', 'BSc Degree', 'BS Degree', 'Shortest Path for BSc Degree']
+Rows: [['Year 1', 'Term 1', '3', '1', '1', '2', '2', '4'], ['Term 2', '2', '2', '2', '3', '3', '4']]
+16. Learning paths available Here are some suggested learning paths... 1. Foundation course certificate 2. Diploma in Programming 3. Diploma in Data Science 4. Diploma in Programming and Data Science 5. BSc degree in Programming and Data Science
+
+--- Chunk 68 | Foundation courses | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Level', 'Course', 'Pre-req', 'Coreq']
+Rows: [['Foundation', 'Maths 1', '-', '-'], ['', 'Statistics 1', '-', '-']]
+Foundation courses A co-requisite for Statistics-2 is Maths-2. So either Maths-2 has to be done before statistics-2 or both can be taken together. Statistics-2 cannot be done without having done Maths-2. All the 8 Foundation courses should be completed before the candidate can register to any Year 2
+
+--- Chunk 69 | Diploma level courses | types: ['unordered_list', 'heading', 'ordered_list', 'paragraph'] ---
+Diploma level courses Suggested pathway to register and study Diploma level courses: 1. Most aggressive pathway - completing in 4 terms - ONLY IF YOU ARE DOING THIS AS FULL TIME AND NOTHING ELSE AND CAN SPEND 70 HRs PER WEEK MINIMUM 2. Comfortable pathway - 6 terms - 2 years : Suggested for students
+
+--- Chunk 70 | Table 1: Department Core/Elective Courses [Updated on Sep 28, 2026] | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', '', '', '', '', '', '', '*Course offering is subject to registration number']
+Rows: [['Course ID', 'Course Level', 'Course Name', 'Course Type', 'Prerequisite code', 'CoRequisite code', 'Credits', 'Sep 2026', 'Jan 2027', 'May 2027'], ['BSCS3001', 'DEGREE', 'Software Engineering', 'Core_BP', '', '', '4', 'Y', 'Y', 'Y']]
+Table 1: Department Core/Elective Courses [Updated on Sep 28, 2026] *Subject to change Sep 28 Please note that L5_Degree courses are complex compared to Degree and L4_Degree courses. Course fee and credits are the same as L4_Degree courses. Introducing 2 new elective courses (4c) at the degree level
+
+--- Chunk 71 | 17. Changes in project grading | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['P1', 'P2', 'P3', 'P4', 'Total points', 'Eligible to enter the degree level?']
+Rows: [['E', 'E', 'S', 'S', '28', 'Yes'], ['E', 'E', 'S', 'A', '27', 'No']]
+17. Changes in project grading (wef now) and Eligibility to enter the BSc Level (wef May 2024) Here are two changes being effected with respect to project grading and eligibility to enter the degree level. 1. Project grading: So far - students had to complete all feature requirements given for a pro
+
+--- Chunk 72 | 18.1 Foundation level checkpoints: | types: ['heading', 'ordered_list', 'paragraph'] ---
+18.1 Foundation level checkpoints: These conditions shall be applicable to the students admitted to the foundation level from May 2024. These are not applicable for students who have entered in Jan 2024 term or before that. But completing the foundation level in 9 terms is applicable for all. Terms 
+
+--- Chunk 73 | 18.2 Change in CCC at the foundation level: | types: ['heading', 'paragraph'] ---
+18.2 Change in CCC at the foundation level: This is for ALL students in the foundation level. Currently, the CCC is calculated based on the courses passed in the last 2 terms by the students and enforced too, deciding the number of courses that students can take in a given term in the Foundation Lev
+
+--- Chunk 74 | 18.3 Increasing the maximum number of terms for completing the diploma level | types: ['heading', 'paragraph'] ---
+18.3 Increasing the maximum number of terms for completing the diploma level The Diploma level can now be completed in a maximum of 12 terms instead of 9 terms as has been the case till now. This extension of 12 terms as the maximum limit to complete the Diploma level shall be applied for all learne
+
+--- Chunk 75 | 18.4 Checkpoints in the Diploma level | types: ['heading', 'ordered_list', 'paragraph'] ---
+18.4 Checkpoints in the Diploma level These conditions below shall be applicable to the students admitted to the Diploma level from May 2024. These are not applicable for students who have entered in Jan 2024 term or before that. To ensure continuous progress and steer students towards completing co
+
+--- Chunk 76 | 18.5 Checkpoints in the Foundation and Diploma level | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['Timeline of Action', 'When will it be done?', 'What will be done?']
+Rows: [['Course Registration Restriction Notification', 'After the End-Term results are released and two days before course registration', 'Students will be notified that course registration is not permitted for the current term.'], ['FTQ Letter', 'After the End-Term results are released and two days before course registration', 'The program removal letter will be issued and made live in the student dashboard.']]
+18.5 Checkpoints in the Foundation and Diploma level Updated on May 17, 2026 Scenario 1: Students who will not be able to Meet the Academic Milestone Requirements Students who will not be able to satisfy the required academic milestone even after registering for the maximum number of permitted theor
+
+--- Chunk 77 | 18.6 Checkpoints in entering the Degree level | types: ['unordered_list', 'heading', 'ordered_list', 'paragraph'] ---
+18.6 Checkpoints in entering the Degree level To enter into degree level w.e.f May 2024 onwards i.e This rule shall be applicable to all students entering the degree level (BSc) from the May 2024 term. 1. For students who have entered the program before May 2026 term For a student to progress to the
+
+--- Chunk 78 | 18.7 Improvement Term Limit | types: ['heading', 'paragraph'] ---
+18.7 Improvement Term Limit [Updated on Aug 28,2025] As per the new policy from Jan 2026 Term, the students can improve the grades obtained in courses of a level as long as they are within the same level and have not progressed to the next level. For eg: if a student completes the 8 courses of the f
+
+--- Chunk 79 | 19. Eligibility Criteria Prize | types: ['heading', 'paragraph'] ---
+19. Eligibility Criteria Prize The Direct admission to the Diploma, where students exit with the Diploma, comprises 8 courses and 2 projects (35 credits). Eligibility for Prizes: 1. Certificate of Merit Awarded to students at 2 levels: completing Foundation+2 Diplomas (86 credits), completing the BS
+
+--- Chunk 80 | 20 . Re Entry after Diploma/Degree Exit | types: ['heading', 'paragraph'] ---
+20 . Re Entry after Diploma/Degree Exit [updated on May 16, 2025] Policy on Rejoining IITM BS: Students Holding Original Senate-Sanctioned Diplomas/Degrees
+
+--- Chunk 81 | 20.1 Eligibility and Requirements for Re-admission Final Exams | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Original Certificate taken and exited', 'Level they wish to join', 'Subjects for Mandatory Final Exams']
+Rows: [['Diploma in Programming', 'Diploma in Data Science', 'MAD2', 'PDSA'], ['Diploma in Data Science', 'Diploma in programming', 'MLT', 'MLP']]
+20.1 Eligibility and Requirements for Re-admission Final Exams To rejoin the IITM BS program and continue their studies, students who previously exited with an original certificate must take the final exams for specific subjects detailed in the table below. These subjects are determined by the certi
+
+--- Chunk 82 | 20.2 Examination and Fee Structure | types: ['unordered_list', 'heading'] ---
+20.2 Examination and Fee Structure - Exam Schedule : Exams will be conducted on the scheduled final exam date of a term. - Passing Requirement : To be eligible for continuation, students must appear for the final exam in all the subjects relevant to their readmission, as listed above. - Academic Con
+
+--- Chunk 83 | 20.3 Post-Readmission Academic and Administrative Processes | types: ['unordered_list', 'heading', 'paragraph'] ---
+20.3 Post-Readmission Academic and Administrative Processes Upon readmission, the following policies apply: - Student Roll Number : Remains unchanged from the student’s original enrollment. - Progress Card and Grade Card - Only courses undertaken after readmission will be listed in the progress and 
+
+--- Chunk 84 | 21. Pathways to get admission to Masters or Research programs at IITM | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['', 'MTech', 'MS']
+Rows: [['Program type', 'Course and project-based', 'Research-based'], ['Course load', 'Typically 10-12 courses & labs', '5 courses']]
+21. Pathways to get admission to Masters or Research programs at IITM [Updated on April 12,2025] The table below summarises the main differences between an MTech and an MS program. For more details on comparison between MS and MTech Upgrade refer to this document - https://docs.google.com/document/d
+
+--- Chunk 85 | Get a GATE score/rank and apply to IITM’s MTech/MS or PhD programs (Campus program) | types: ['heading', 'ordered_list', 'paragraph'] ---
+Get a GATE score/rank and apply to IITM’s MTech/MS or PhD programs (Campus program) Writing the GATE exam opens doors to you at 100s of institutes and not just IITM. Using the GATE score, you can apply for an MTech or MS or PhD depending on what other degree you have apart from the BS degree. 1. You
+
+--- Chunk 86 | Apply for the MS program as a CFTI student if you have CGPA>= 8.0 in IITM’s BS program. (Campus program) | types: ['heading', 'ordered_list', 'paragraph'] ---
+Apply for the MS program as a CFTI student if you have CGPA>= 8.0 in IITM’s BS program. (Campus program) 1. GATE score is not required for this 2. You will have to go through the admission process which may involve a test and/or interview to be selected. 3. The program will involve at least 1 year o
+
+--- Chunk 87 | Apply to the MS program as a Project staff within IITM (Campus program) | types: ['heading', 'ordered_list'] ---
+Apply to the MS program as a Project staff within IITM (Campus program) 1. If you are appointed as a project staff in any project with faculty at IITM, you may be eligible for project admission to the MS program. 2. While you are project staff, you need to register for courses on campus, as approved
+
+--- Chunk 88 | Upgrade to the on-campus MS program | types: ['heading', 'ordered_list', 'paragraph'] ---
+Upgrade to the on-campus MS program 1. When you have completed 106 credits and CGPA >=8, you can apply in May/Nov of every year through the form floated by the POD team for the direct upgrade to MS. 2. If selected, you will do the BS level courses on campus in person (16 credits of course work and 1
+
+--- Chunk 89 | e.  Upgrade to a PG Diploma or MTech degree online after the BS | types: ['heading', 'paragraph'] ---
+e.  Upgrade to a PG Diploma or MTech degree online after the BS Once a student has completed 142 credits and the BS degree, they can choose to continue to study more courses. If they complete 20 more credits (3 core and 2 elective courses), students will be awarded a PG Diploma. If they continue to 
+
+--- Chunk 90 | 22. Apprenticeship in the BS level of IIT Madras’ BS in Data Science and Applications | types: ['heading', 'ordered_list', 'paragraph'] ---
+22. Apprenticeship in the BS level of IIT Madras’ BS in Data Science and Applications The program provides the students in the BS level of the program to pursue an apprenticeship with companies and research projects and earn up to 12 credits in this level. Doing an apprenticeship is optional. Steps 
+
+--- Chunk 91 | 23 . Software and Hardware Requirements - Mandatory System Specifications | types: ['heading', 'paragraph'] ---
+23 . Software and Hardware Requirements - Mandatory System Specifications The following are the essential requirements that are recommended to pursue the BSc Degree program from IIT Madras [1] . Please note that there will be updates in some of the specifications with changes happening in technology
+
+--- Chunk 92 | 23.1 Hardware | types: ['heading', 'ordered_list', 'paragraph'] ---
+23.1 Hardware To enroll and study in the program, every student is required to have a laptop or desktop with the minimum configuration being as follows: 1. RAM Size - 8 GB or higher ( The ability to install more memory is desirable ). 2. Processor - Intel 8th Generation or AMD 4th Generation or upwa
+
+--- Chunk 93 | 23.2 Software/Applications | types: ['heading', 'ordered_list'] ---
+23.2 Software/Applications 1. Operating System - Minimum requirement of Windows 10 or Ubuntu LTS Version 20.04 (or any equivalent) or Mac OS Mojave. Having the capability of dual boot is desirable. If there is no capability for dual boot, then the operating system must support virtualization softwar
+
+--- Chunk 94 | 23.3 Internet Bandwidth | types: ['heading', 'paragraph'] ---
+23.3 Internet Bandwidth A minimum of 2 MBPS connection is required to attend sessions without disruptions. However we strongly recommend broadband connections with much higher bandwidth for the best learning experience.
+
+--- Chunk 95 | 23.4 For Online Interactions/Proctored Examinations | types: ['heading', 'ordered_list'] ---
+23.4 For Online Interactions/Proctored Examinations 1. Browser - Latest version of Chrome is desirable 2. Mobile with a front camera and good internet connection (VOLTE connections are ideal) 3. Mic and speaker to be able to speak to and listen to the person at the other end 4. Any applications as r
+
+--- Chunk 96 | 23.5 System compatibility test | types: ['heading', 'paragraph'] ---
+23.5 System compatibility test All students have to mandatorily attend the system compatibility test and ensure that the system you have conforms to the above requirements and student has to participate in this on the dates mentioned by the Admin team to get this completed.
+
+--- Chunk 97 | 23.6 Other References | types: ['heading', 'ordered_list', 'paragraph'] ---
+23.6 Other References Some more helpful links that will help you in understanding possible system configurations: 1. https://towardsdatascience.com/20-necessary-requirements-of-a-perfect-laptop-for-data-science-and-machine-learning-tasks-7d0c59c3cb63 2. https://www.practicaldatascience.org/html/buyi
+
+--- Chunk 98 | 24 . Non Academic Rules | types: ['heading', 'paragraph'] ---
+24 . Non Academic Rules https://docs.google.com/document/u/1/d/1N5ZmPJZUDHznjt6G_ZiRS1baG_WpOfJM-oFnvWve76Y/pub Malpractice Data till Sep 2025 Term : Consolidated Malpractice Data (updated on Jan 04,2026)
+
+--- Chunk 99 | 25. Research Paper Publishing Policy | types: ['heading', 'paragraph'] ---
+25. Research Paper Publishing Policy Below are the points to be followed while publishing a Research paper : Use of Institute Name : Students are not permitted to use “IIT Madras” or “IIT Madras BS Degree” as their affiliation in any research publication unless the work has been carried out under th
+
+--- Chunk 100 | 26.1 New initiatives approved in June Senate : | types: ['heading', 'ordered_list', 'paragraph'] ---
+26.1 New initiatives approved in June Senate : Live Streaming : Click Here PPT  : Click Here 1. Deep Learning and GenAI course + project in Diploma in Data Science 2. 2 new 4 credit electives in the Degree Level 3. Comprehensive Exam courses based on rank in GATE exam 4. Introduction of minors 5. Al
+
+--- Chunk 101 | PGD/M.Tech introduction Meeting Link : Click Here | types: ['heading', 'paragraph'] ---
+PGD/M.Tech introduction Meeting Link : Click Here M.Tech Project Meeting link : Meeting Video Project Proposal PPT : PPT Link Project Details : Click here for the link
+
+--- Chunk 102 | 26.5 Level orientation (Youtube link): Click here | types: ['heading', 'paragraph'] ---
+26.5 Level orientation (Youtube link): Click here 26.6 Course Wise Orientation Youtube Links : Click here 26.7    DS to MG switch policy Batches of May 2025, Jan 2025, Sep 2024, May 2024 PPT Link : Click here FAQ: Click here Recorded session : Click here Batches of Sep 2025, Jan 2026 PPT link : Clic
+
+--- Chunk 103 | 27. Rules for non-campus BS students applying for the Nirmaan pre-incubation | types: ['heading', 'paragraph'] ---
+27. Rules for non-campus BS students applying for the Nirmaan pre-incubation [updated on Dec 05, 2025] Click here to view
+
+--- Chunk 104 | 29. Mandatory submission by students (Updated on July 24, 2026) 29.1 Fee Waiver Verification Process WEF Jan 2026 term [updated on Feb 18,2026] | types: ['unordered_list', 'heading', 'paragraph'] ---
+29. Mandatory submission by students (Updated on July 24, 2026) 29.1 Fee Waiver Verification Process WEF Jan 2026 term [updated on Feb 18,2026] The BS committee has asked to implement additional verification of the income documents before providing the institute fee waiver to students whose total fa
+
+--- Chunk 105 | 29.2 Mandatory POSH Training for All Students | types: ['heading', 'paragraph'] ---
+29.2 Mandatory POSH Training for All Students [updated on April 06,2026] IIT Madras BS Degree has mandated that all students of all programs should mandatorily complete the POSH – Becoming Gender Sensitive training course, as part of the institute’s commitment to maitain a safe and respectful learni
+
+--- Chunk 106 | 29.3 Submission of Medical certificate | types: ['heading', 'paragraph'] ---
+29.3 Submission of Medical certificate As part of the document requirements for the IIT Madras BS Degree Program, all students are required to submit a Medical Certificate in the prescribed format provided by the program. This requirement was introduced starting from the September 2025 term. The for
+
+--- Chunk 107 | 29.4 Profile Update | types: ['unordered_list', 'heading', 'paragraph'] ---
+29.4 Profile Update After the term registration is completed, students are provided with a window to update their profile details in the dashboard. Students can edit the following : - Full Name - Upload 12 or equivalent marksheet OR Degree certificate of Highest Level of education. - Date of Birth -
+
+--- Chunk 108 | 30. Student Escalation Matrix | types: ['heading', 'paragraph'] ---
+30. Student Escalation Matrix [updated on Jun 18, 2026 ]
+
+--- Chunk 109 | Step 1: Raise a Support Ticket | types: ['heading', 'paragraph'] ---
+Step 1: Raise a Support Ticket All queries, requests, and issues must first be submitted through the Student Support Portal by raising a support ticket. Please wait for at least 24 hours after raising the ticket for the support team to review and respond.
+
+--- Chunk 110 | Step 2: Follow Up on the Existing Ticket | types: ['heading', 'paragraph'] ---
+Step 2: Follow Up on the Existing Ticket If you have not received a response within 24 hours, you may follow up on the same ticket instead of creating a new one.
+
+--- Chunk 111 | Step 3: Escalation | types: ['heading', 'paragraph'] ---
+Step 3: Escalation If you have already raised a support ticket, waited for 24 hours, and followed up on the ticket, but have still not received a response or are not satisfied with the resolution provided, you may escalate the matter as per the escalation matrix below.
+
+--- Chunk 112 | Level 1 Escalation | types: ['heading', 'paragraph'] ---
+Level 1 Escalation Email: akshaya@study.iitm.ac.in , nkavitha@code.iitm.ac.in
+
+--- Chunk 113 | Level 2 Escalation | types: ['heading', 'paragraph'] ---
+Level 2 Escalation Email: bharathi@study.iitm.ac.in Students are requested to contact the above email IDs first. If the issue remains unresolved or the response received is not satisfactory, it may be escalated further as per the hierarchy below.
+
+--- Chunk 114 | Level 3 Escalation | types: ['unordered_list', 'heading', 'paragraph'] ---
+Level 3 Escalation BS Degree Program Coordinators - Prof. Andrew Thangaraj - Prof. Vignesh M
+
+--- Chunk 115 | Important Guidelines | types: ['unordered_list', 'heading'] ---
+Important Guidelines - Always mention your Support Ticket Number while escalating an issue. - Escalations without a previously raised support ticket may not be entertained. - Please allow the concerned team adequate time to review and respond before proceeding to the next level of escalation. - Mult
+
+--- Chunk 116 | 31. Introducing the Student Performance Leaderboard | types: ['heading', 'paragraph'] ---
+31. Introducing the Student Performance Leaderboard The Leaderboard portal provides students with insights into their academic performance through subject-wise rankings, level completion rankings, and course-wise performance analytics. Important: The Leaderboard can be accessed only using your regis
+
+--- Chunk 117 | 34 . Common FAQ’s | types: ['ordered_list', 'paragraph'] ---
+34 . Common FAQ’s Updated on JAN 05,2026 1. After exiting at the Diploma level, will I receive alumni status , along with an alumni card ? No, alumni status is only if you complete BSc or higher. 1. The exit form deadline mentioned is the 12th January , but the email specifies only BSc/BS . Does thi
+
+--- Chunk 118 | General | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['OPPE SCHEDULE (Sep 2026 TERM)']
+Rows: [['Sunday', 'November 15', '2026', 'Saturday', 'December 5', '2026', 'Sunday', 'January 10', '2027'], ['2pm-6pm*', '2pm-6pm*', '9am-12pm', '2pm-5pm']]
+Grading Document IITM’s BS in Data Science and Applications program Sep 2026 TERM GRADING DOCUMENT The following is the schedule of the 2 quizzes and final exam which students have to attend in person at centres across the country and outside India. * (If required and, we will do a morning session f
+
+--- Chunk 119 | ASSIGNMENT DEADLINES: | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['TermStartT3', 'TermStart', 'ContentRelease', 'Foundation/Degree/Diploma Deadlines', 'Comments']
+Rows: [['Week 1T3', 'Week 1', 'Friday', 'October 2', '2026', 'Sunday', 'October 11', '2026', ''], ['Week 2 T3', 'Week 2', 'Friday', 'October 9', '2026', 'Sunday', 'October 18', '2026', '']]
+ASSIGNMENT DEADLINES: NONE OF THE ASSIGNMENT DEADLINES WILL BE CHANGED THIS TIME FROM THE SCHEDULE GIVEN ABOVE. THE DATES HAVE BEEN SUFFICIENTLY ADJUSTED FOR ACCOMMODATING THE QUIZZES AND OPPES. Week 7 - eligibility for final exams for most courses depends on the average assignment scores of best 5 
+
+--- Chunk 120 | Bonus Marks | types: ['unordered_list', 'heading', 'paragraph'] ---
+Bonus Marks Bonus Marks are for encouraging and incentivising the students to participate more in the activities of the course. These marks will be added ONLY for the students who pass the course and will only impact the course grade, and not the pass criteria . Criteria for bonus marks: Marks will 
+
+--- Chunk 121 | Information about course grades: | types: ['heading', 'ordered_list', 'paragraph'] ---
+Information about course grades: S,A,B,C,D,E - Pass grade; U/WA/WQ - Fail grade ;  I - Incomplete In I grade - there are 3 types: 1. If you are absent for ET alone but all other assessment components are completed (quizzes, OPPEs, project, weekly assignments) - grade will be pushed as I. Options: Yo
+
+--- Chunk 122 | Suggested pathway to register and study Foundation level courses: | types: ['heading', 'paragraph'] ---
+Suggested pathway to register and study Foundation level courses: For those entering Foundation Level in MAY 2024 or after, kindly go through the new rules: 4/6/8 courses to be completed in 4/6/9 terms. Else you will be removed from the program. Academic policies: 1. In each programming assignment, 
+
+--- Chunk 123 | 1. Mathematics for data science 1 (MA1001) | types: ['heading', 'paragraph'] ---
+1. Mathematics for data science 1 (MA1001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term: January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignme
+
+--- Chunk 124 | 2. English 1 (HS1001) | types: ['heading', 'paragraph'] ---
+2. English 1 (HS1001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignment scores >= 40/100 
+
+--- Chunk 125 | 3. Computational Thinking (CS1001) | types: ['heading', 'paragraph'] ---
+3. Computational Thinking (CS1001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignment scor
+
+--- Chunk 126 | 4. Statistics for data science 1 (MA1002) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Extra activity', 'Release date for extra activity', 'End date of submission', 'End date for peer review']
+Rows: [['Extra Activity 1', 'Friday 13 Nov 2026', 'Wednesday 25 Nov 2026', 'Sunday 29 Nov 2026'], ['Extra Activity 2', 'Friday 13 Nov 2026', 'Wednesday 25 Nov 2026', 'Sunday 29 Nov 2026']]
+4. Statistics for data science 1 (MA1002) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignme
+
+--- Chunk 127 | 5. Mathematics for data science 2 (MA1003) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['EA', 'Release Date for Extra activity', 'Assignment Submission Deadline']
+Rows: [['Extra Activity 1', 'Friday', 'October 23', '2026', 'Saturday', 'October 31', '2026'], ['Extra Activity 2', 'Friday', 'November 6', '2026', 'Saturday', 'November 14', '2026']]
+5. Mathematics for data science 2 (MA1003) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignm
+
+--- Chunk 128 | 6. English 2 (HS1002) | types: ['heading', 'paragraph'] ---
+6. English 2 (HS1002) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignment scores >= 40/100 
+
+--- Chunk 129 | 7 . Programming in Python (CS1002) | types: ['heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['', 'OPE1/ OPE2', 'ET', 'T', 'Grade', 'Possibilities for student']
+Rows: [['1.', 'Absent/ In eligible', 'Absent/ In eligible', '-', 'U', 'Repeat the course.'], ['2.', 'Absent', 'Present', '>=35', 'I_OP', 'Complete OPPE alone in next term;Both oppes will be scheduled. GA', 'quiz and ET marks will be carried over OR Repeat the entire course']]
+7 . Programming in Python (CS1002) Academic policies 1. In each programming assignment, be it any course or any OPPE,  taking help from LLMs (e.g. ChatGPT, Gemini) partially or completely is considered plagiarism. 2. Unless explicitly permitted, do not use LLMs. Using LLMs is considered a violation 
+
+--- Chunk 130 | 8. Statistics for data science 2 (MA1004) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Extra activity', 'Release date for extra activity', 'End date of submission', 'End date for peer review']
+Rows: [['Extra Activity 1', 'Friday', '2 October 2026', 'Wednesday', '14 October 2026', 'Sunday', '18 October 2026'], ['Extra Activity 2', 'Friday', '16 October 2026', 'Wednesday', '28 October 2026', 'Sunday', '1 November 2026']]
+8. Statistics for data science 2 (MA1004) Quiz 1: November  15 2026           Quiz 2: December 5 2026        End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignment score
+
+--- Chunk 131 | Suggested pathway to register and study Diploma level courses: | types: ['unordered_list', 'heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['DOING A SINGLE DIPLOMA (DS)']
+Rows: [['A VERY COMFORTABLE PATH - RECOMMENDED FOR THOSE WHO STILL ARE SLOW ON CODING AND MATHS AND CAN TAKE TIME. FOUNDATION - 3 OR 4 TERMS', 'DIPLOMA - 7 TERMS', 'BSC+BS - 5 TERMS', 'SO TOTAL OF 16 TERMS OR 5 YEARS. VERY APT FOR WORKING PROFESSIONALS AND DUAL DEGREE STUDENTS', 'BDM Theory', 'DBMS', 'MAD 1 Theory', 'Mad 1 Project', 'Mad 2 Theory', 'Mad 2 Project', 'Java'], ['BDM Project', 'PDSA', 'MLF', 'MLT', 'MLP', 'BA', 'TDS']]
+Suggested pathway to register and study Diploma level courses: 1. Most aggressive pathway - completing in 4 terms - ONLY IF YOU ARE DOING THIS AS FULL TIME AND NOTHING ELSE AND CAN SPEND 70 HRs PER WEEK MINIMUM 2. Comfortable pathway - 6 terms - 2 years : Suggested for students and working professio
+
+--- Chunk 132 | 1. Machine Learning Foundations (DS Diploma)  (CS2004) | types: ['unordered_list', 'heading', 'paragraph'] ---
+1. Machine Learning Foundations (DS Diploma)  (CS2004) Quiz 1: November  15 2026           Quiz 2: December 5 2026        End term:  January 10 2027 Above to be attended in person at designated centers. Eligibility to attend final exam: Average of the best 5 out of the first 7 weekly assignment scor
+
+--- Chunk 133 | 2. Machine Learning Techniques (Diploma in DS) (CS2007) | types: ['heading', 'paragraph'] ---
+2. Machine Learning Techniques (Diploma in DS) (CS2007) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to attend the end term exam: Average of the best 5 out of the first 7 weekly
+
+--- Chunk 134 | 3. Machine Learning Pr actice (Diploma in DS) (CS2008) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'OPE1/OPE2', 'ET', 'T', 'Grade', 'Next steps']
+Rows: [['KA 1', 'Nov 2nd', 'Nov 11th', 'Nov 13th'], ['KA 2', 'Nov 17th', 'Nov 25th', 'Nov 27th']]
+3. Machine Learning Pr actice (Diploma in DS) (CS2008) Quiz 1: No Quiz 1 Quiz 2: No Quiz 2 End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to attend the end term exam: Average of the best 5 out of the 7 weekly assessments (objective and programming) score
+
+--- Chunk 135 | 4. Business Data managem ent (DS Diploma) (MS2001) | types: ['heading', 'paragraph'] ---
+4. Business Data managem ent (DS Diploma) (MS2001) Quiz 1: November  15 2026            Quiz 2: December 5 2026    End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to attend final exam: Average of the best 5 out of the first 7 weekly assignment scores >= 4
+
+--- Chunk 136 | 5. Business Analytics (Diploma in DS) (MS2002) | types: ['unordered_list', 'heading', 'paragraph'] ---
+5. Business Analytics (Diploma in DS) (MS2002) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. There will be no regular weekly graded assignments being designed for this course. Instead there 
+
+--- Chunk 137 | [Co-requisite for this course is MLP] | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'Assessment', 'Open date (Tentative)', 'Submission date (Tentative)']
+Rows: [['ROE', 'Remote Online Exam (45 mins', 'open internet', 'Objective assessments)', 'Sunday November 29', '2026', 'Sunday November 29', '2026'], ['P1', 'Take home project 1 (open internet)', 'Friday', 'October 9', '2026', 'Monday', 'November 9', '2026']]
+[Co-requisite for this course is MLP] No in-centre quizzes for this course. End term exam: January 10 2027 - to be attended in person at designated centres. ROE: Sun, YTD Academic policies 1. The Tools in Data Science portal ( https://tds.s-anand.net/ ) has all the course content: Graded Assignments
+
+--- Chunk 138 | 7. P rogramming Data structures and algorithms using Python (PDSA) - Diploma in Programming (CS2002) | types: ['heading', 'paragraph'] ---
+7. P rogramming Data structures and algorithms using Python (PDSA) - Diploma in Programming (CS2002) Weekly assignments: Mix of autograded assignment and Programming assignments Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended
+
+--- Chunk 139 | 8. Database management s ystem (DBMS) - Diploma in Programming  (CS2001) | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['', 'OPE', 'ET', 'T', 'Grade', '']
+Rows: [['Week 1-12', '100% objective', 'NA', 'None'], ['Weekly assessments', 'Weeks 2', '3', 'PostgreSQL assignments will be considered.', 'None', 'GAA2']]
+8. Database management s ystem (DBMS) - Diploma in Programming  (CS2001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of the best 5 out of the fi
+
+--- Chunk 140 | 9. Applica tion developm ent - 1 (Diploma in programming) ( CS200 3) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Assessment Type', 'Method', 'Proctoring', 'Contribution to final score']
+Rows: [['Lab assignments', 'Weeks 2 - 7', '100% Lab assignments auto evaluated via framework (weekly assignments)', 'None', 'GLA : 70% of Best 2 out of first 5 [2', '3', '4', '5', '6]', '30% of week7'], ['Objective Assignments', 'Weeks 1 - 12', '100% objective', 'None', 'None']]
+9. Applica tion developm ent - 1 (Diploma in programming) ( CS200 3) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of the best 5 out of the first 
+
+--- Chunk 141 | 10. Programming concepts using Ja va (Diploma in program ming) (CS2005) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'OPE1/OPE2', 'ET', 'T', 'Grade', '']
+Rows: [['Weeks 1 - 12 Weekly Objective Assessments', 'Objective Questions', 'On Course Portal', ''], ['Weeks 2 - 8 Weekly Programming Assignments', 'Programming Questions', 'On Course Portal', 'GAA']]
+10. Programming concepts using Ja va (Diploma in program ming) (CS2005) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. A2: Average of GrPA scores in week 2 A3: Average of GrPA scores in week 
+
+--- Chunk 142 | 11. System commands (Diploma in programming)  (SE2001) | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['', 'OPE', 'ET', 'T', 'Grade', '']
+Rows: [['1.', 'Absent/In Eligible', 'Absent/In Eligible', '-', 'U', 'Repeat entire course'], ['2.', 'Absent (OPE=0)', 'Present', '>=35', 'I_OP', 'Complete the BPT and OPE in next term; BPTs will be eligibility to write OPPE GA', 'quiz and ET marks will be carried over OR Repeat the entire course']]
+11. System commands (Diploma in programming)  (SE2001) Quiz 1: November  15 2026                    Quiz 2: No Quiz        End term:  January 10 2027 Above to be attended in person at designated centres. OPPE: December 20th 2026                              ReOPPE: 3rd January 2027 Biweekly Programm
+
+--- Chunk 143 | 12. Application Development - 2 (Diploma in programming) (CS2006) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Assessment Type', 'Method', 'Proctoring', 'Percentage contribution']
+Rows: [['Weekly assessments Weeks 1 - 11', '100% objective', 'None', 'None'], ['Programming Assignments Weeks 1 and 2', 'Auto Evaluated', 'None', 'GAA = 5 marks']]
+12. Application Development - 2 (Diploma in programming) (CS2006) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of the best 5 out of the first 7 w
+
+--- Chunk 144 | 13.Introduction to Deep Learning and Generative AI (DA2001) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Theory completed term ( Received a pass grade)', 'Submission date', 'Evaluation']
+Rows: [['May 2026 or previous term', 'November 17th', '2026', '100'], ['Sep 2026', 'December 10th', '2026', '105 marks and cap it to 100']]
+13.Introduction to Deep Learning and Generative AI (DA2001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres Eligibility to write End term exam: Average of the first 5 weekly assessments scores 
+
+--- Chunk 145 | Guideline documents: | types: ['heading', 'paragraph'] ---
+Guideline documents: MLP Projec t https://docs.google.com/document/d/e/2PACX-1vTDeJ_RUmRaHVMK5mUJ0PJJHqAryFOevcxHh1uhPHJWdGIHQN2JlEGpKWw4JMVpIFC13muM-wxwOSe0/pub#h.7w13imrwdhai Appdev Bootcamp plan : Click here MAD I Project Project Document: https://docs.google.com/document/d/e/2PACX-1vQerQ3YjgvTyI
+
+--- Chunk 146 | Deep learning and Generative AI Project : https://docs.google.com/document/d/e/2PACX-1vTKpl6r7wFD3S2g99wcqoSfFmPd2rmlI3RZdgszlpKSsv-KRFbfJVcFrDrl71J_ffaZ65FFgGTKFf6x/pub | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Category', 'Payment', 'Category Waiver', 'Grade']
+Rows: [['New Registration', '2500', 'Yes', 'Actual grade'], ['If the project is not completed in the registered term - the fee is retained for the subsequent term', 'grade will be marked as I. . If the project is not completed in the second term also', 'then the registration becomes invalid and the student has to pay the full fees again', 'you will get a U grade.', '2500', 'Yes', 'I or U']]
+Deep learning and Generative AI Project : https://docs.google.com/document/d/e/2PACX-1vTKpl6r7wFD3S2g99wcqoSfFmPd2rmlI3RZdgszlpKSsv-KRFbfJVcFrDrl71J_ffaZ65FFgGTKFf6x/pub Rules regarding project fees: The fee paid for each of the 4 projects is valid for 2 terms. Please read this carefully so that you
+
+--- Chunk 147 | Timelines (Appdev1, Appdev2 & MLP, BDM projects): | types: ['heading', 'ordered_list', 'paragraph'] ---
+Timelines (Appdev1, Appdev2 & MLP, BDM projects): Here are the timelines for students doing projects in the SEP 2026  terms who will be entering Degree level in the Jan 2027 term. Without completing the 12 courses and 4 projects, you cannot start degree level courses from Jan 2027 onwards. For enter
+
+--- Chunk 148 | Degree Level courses | types: ['heading', 'paragraph'] ---
+Degree Level courses Level of the course: The first digit of the 4 digits given in the course code represents the level of the course. Eg: CT is CS1001 is a 1 level course. Deep Learning CS3004 is a 3 level course. Industry 4.0 MS4001 is a 4 level course. BSc level: It is now mandatory that students
+
+--- Chunk 149 | 1. Software Testing (CS3002) | types: ['heading', 'paragraph'] ---
+1. Software Testing (CS3002) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of best 5 out of first 7 weekly assessments scores >= 40/100 and attend
+
+--- Chunk 150 | 2. Software Engineering (CS3001) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'Release date', 'Submission date', 'Peer review closing date', 'Score release']
+Rows: [['Milestone 1', 'October 2', 'October 18', 'November 10', 'November 20'], ['Milestone 2', 'October 2', 'November 1']]
+2. Software Engineering (CS3001) Quiz 1: No Quiz Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of the best 5 out of the first 7 weekly assignment scores >= 40/100 AND submission of G
+
+--- Chunk 151 | 3 . Deep Learning (CS3004) | types: ['heading', 'paragraph'] ---
+3 . Deep Learning (CS3004) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Bonus Marks: The average score of all (3) programming activity assignments will be used as Bonus marks. Maximum bonus
+
+--- Chunk 152 | 4. AI: Search Methods for Proble m Solving (CS3003) | types: ['heading', 'paragraph'] ---
+4. AI: Search Methods for Proble m Solving (CS3003) Academic policies 1. In each programming assignment, be it any course or any OPPE,  taking help from LLMs (e.g. ChatGPT, Gemini) partially or completely is considered plagiarism. 2. Unless explicitly permitted, do not use LLMs. Using LLMs is consid
+
+--- Chunk 153 | 5. Strategies for Professional Growth (GN3001) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Milestone', 'Timeline', 'Submission Date', 'Marks', 'Evaluation and Score Release']
+Rows: [['I', 'Week 1 to Week 3', 'End of Week 3', '50 marks', 'Before End term'], ['II', 'Week 4 to Week 6', 'End of Week 6', '50 marks']]
+5. Strategies for Professional Growth (GN3001) Academic policies 1. In each programming assignment, be it any course or any OPPE,  taking help from LLMs (e.g. ChatGPT, Gemini) partially or completely is considered plagiarism. 2. Unless explicitly permitted, do not use LLMs. Using LLMs is considered 
+
+--- Chunk 154 | 6 . Programming in C (CS3005) | types: ['unordered_list', 'heading', 'paragraph'] ---
+6 . Programming in C (CS3005) Quiz 1: November  15 2026 Quiz 2: No Quiz 2 End term:  January 10 2027 Above to be attended in person at designated centres For OPPE1, OPPE2 exam dates OPPE 1 - Sunday, November 22 , 2026 OPPE 2 - December 20, 2026 Eligibility to write the final exam: Average of the bes
+
+--- Chunk 155 | 7 . Deep Learning for CV (DA5006) | types: ['heading', 'paragraph'] ---
+7 . Deep Learning for CV (DA5006) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of the best 5 out of the first 7 weeks of weekly assignment scores
+
+--- Chunk 156 | 8 . Large Language Models (DA5004) | types: ['heading', 'paragraph'] ---
+8 . Large Language Models (DA5004) Academic policies 1. In each programming assignment, be it any course or any OPPE,  taking help from LLMs (e.g. ChatGPT, Gemini) partially or completely is considered plagiarism. 2. Unless explicitly permitted, do not use LLMs. Using LLMs is considered a violation 
+
+--- Chunk 157 | 9 . Deep Learning Practice (DA5013) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Exam', 'Syllabus', 'NPPE Dates', 'Timing']
+Rows: [['NPPE1 Opens', 'W1-W4', 'Nov 6', '2026', '5:00PM'], ['NPPE1 Closes', 'Nov 9', '2026', '11:59PM']]
+9 . Deep Learning Practice (DA5013) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to get final course grade: Viva score >=40% Quiz1 - based on content taught by Prof Mitesh (Base
+
+--- Chunk 158 | 10. Data Science and AI Lab (DA4001) | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['Assessment Type', 'Mode of Evaluation', 'Requirements']
+Rows: [['Graded Assignments ( GAA )', 'Objective', ''], ['Quiz 2', 'TCS platform', 'Weeks 1-8']]
+10. Data Science and AI Lab (DA4001) Quiz 1: No Quiz                Quiz 2: December 5 2026                End term: No EndTerm 1. Graded Assignments: - Each week will contain a graded assignment based on the topics covered in that week 2. Quiz: The quiz will be conducted at the time of quiz 2, cove
+
+--- Chunk 159 | 11 . Application Development Lab (CS4010) | types: ['unordered_list', 'heading', 'table', 'paragraph'] ---
+Headers: ['Assessment Type', 'Method', 'Proctoring', 'Criteria']
+Rows: [['Lab Assignment + Graded Assignment + Programming Assignment', 'Auto evaluated via framework (weekly assignments)', 'None', 'Attempt both Lab Assignments in Weeks 4 and 5. In case of more than one assignment for a week', 'the average of all will be taken to calculate the score for that week'], ['Quiz 2', 'Online computer Based', 'TCS platform', 'Week 1 to 8']]
+11 . Application Development Lab (CS4010) Quiz 1: No Quiz        Quiz 2: December 5 2026        End term:  No End term Above to be attended in person at designated centres Eligibility to appear for Project Viva: To be eligible for the final project viva, learners must satisfy the following condition
+
+--- Chunk 160 | 12. Big Data and Biological Networks  (BT4002) | types: ['heading', 'paragraph'] ---
+12. Big Data and Biological Networks  (BT4002) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres Eligibility to write end term exam: Average of the best 5 out of the first 7 weeks of weekly assig
+
+--- Chunk 161 | 13 . Industry 4.0   (MS4001) | types: ['unordered_list', 'heading', 'table', 'ordered_list', 'paragraph'] ---
+Headers: ['Week no.', 'Release date', 'Submission date']
+Rows: [['5', 'Friday', 'October 30', '2026', 'Wednesday', 'November 11', '2026'], ['6', 'Friday', 'November 6', '2026', 'Wednesday', 'November 18', '2026']]
+13 . Industry 4.0   (MS4001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to take the final exam: Submission of at least 1 out of the first three assignments - Asgn 1, Asgn 2 an
+
+--- Chunk 162 | 14 . Mathematical Thinking   (MA2001) | types: ['heading', 'paragraph'] ---
+14 . Mathematical Thinking   (MA2001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignment sc
+
+--- Chunk 163 | 15 . MLOps (Machine Learning Operations)  (DA5014) | types: ['heading', 'paragraph'] ---
+15 . MLOps (Machine Learning Operations)  (DA5014) Quiz 1: NA                  Quiz 2: NA                End term:  January 10 2027 Above to be attended in person at designated centres Eligibility to write the final exam: Average of the best 5 out of the first 7 weekly assignment scores >= 40/100 El
+
+--- Chunk 164 | 16 . Mathematical Foundations of Generative AI (DA5002) | types: ['heading', 'paragraph'] ---
+16 . Mathematical Foundations of Generative AI (DA5002) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. NPPE Dates: December 11 - 14 2026 Eligibility to write the final exam: Average of the be
+
+--- Chunk 165 | 17. Speech Technology  (EE4001) | types: ['heading', 'paragraph'] ---
+17. Speech Technology  (EE4001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of best 5 out of first 7 weekly assessments scores >= 40/100 and att
+
+--- Chunk 166 | 18. Design Thinking for Data-Driven App Development (MS4002) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['Milestone', 'Timeline', 'Submission Date', 'Marks', 'Evaluation and Score Release']
+Rows: [['I', '', '', '', ''], ['II', '', '', '']]
+18. Design Thinking for Data-Driven App Development (MS4002) Academic policies 1. In each programming assignment, be it any course or any OPPE,  taking help from LLMs (e.g. ChatGPT, Gemini) partially or completely is considered plagiarism. 2. Unless explicitly permitted, do not use LLMs. Using LLMs 
+
+--- Chunk 167 | 19 . Financial Forensics (MS4003) | types: ['heading', 'paragraph'] ---
+19 . Financial Forensics (MS4003) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres Remote Group Project 1: Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of 
+
+--- Chunk 168 | 20. Introduction to Big Data  (DA5001) | types: ['heading', 'table', 'paragraph'] ---
+Headers: ['', 'OPE1/OPE2', 'ET', 'T', 'Grade', '']
+Rows: [['1.', 'Absent', 'Absent', '-', 'U', ''], ['2.', 'Absent (PE1 and PE2=0)', 'Present', '>=35', 'I_OP', 'Complete OPE alone in next term', 'GA', 'quiz and ET marks will be carried over OR Repeat the entire course']]
+20. Introduction to Big Data  (DA5001) Academic policies 1. In each programming assignment, be it any course or any OPPE,  taking help from LLMs (e.g. ChatGPT, Gemini) partially or completely is considered plagiarism. 2. Unless explicitly permitted, do not use LLMs. Using LLMs is considered a violat
+
+--- Chunk 169 | 21 . Linear Models with Applications (MA3015) | types: ['heading', 'paragraph'] ---
+21 . Linear Models with Applications (MA3015) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to attend final exam: Average of the best 5 out of the first 7 assignment scores >= 40
+
+--- Chunk 170 | 22. Special topics in ML (Reinforcement Learning) (DA5007) | types: ['heading', 'paragraph'] ---
+22. Special topics in ML (Reinforcement Learning) (DA5007) Quiz 1: November  15 2026           Quiz 2: December 5 2026        End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of best 5 out of first 7 weekly assessments score
+
+--- Chunk 171 | 23. Corporate Finance  (MS3034) | types: ['heading', 'paragraph'] ---
+23. Corporate Finance  (MS3034) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weeks of weekly assignment scores 
+
+--- Chunk 172 | 24. Computer Networks (CS4024) | types: ['heading', 'paragraph'] ---
+24. Computer Networks (CS4024) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weekly assignment scores >= 40/100 
+
+--- Chunk 173 | 25. Computer Systems Design (CS3031) | types: ['heading', 'paragraph'] ---
+25. Computer Systems Design (CS3031) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weekly assignment scores >= 4
+
+--- Chunk 174 | 26. Game Theory and Strategy (MS4023) | types: ['heading', 'paragraph'] ---
+26. Game Theory and Strategy (MS4023) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres Eligibility to write the final exam: Average of the best 5 out of the first 7 weekly assignment scores >= 4
+
+--- Chunk 175 | 27 . Algorithms for Data Science (ADS)  (DA5003) | types: ['unordered_list', 'heading', 'paragraph'] ---
+27 . Algorithms for Data Science (ADS)  (DA5003) Quiz 1: November  15 2026 Quiz 2: December 5 2026        End term:  January 10 2027 Above to be attended in person at designated centres. Theory Assignments - Once in two weeks: W2, W4, W6, W8, W10, W12 - The questions will be objective: MCQ-MSQ-NAT E
+
+--- Chunk 176 | 28 . Compiler Design (CS4032) | types: ['heading', 'paragraph'] ---
+28 . Compiler Design (CS4032) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weekly assignment scores >= 40/100 A
+
+--- Chunk 177 | 29 . Sequential Decision Making (DA6004) | types: ['heading', 'paragraph'] ---
+29 . Sequential Decision Making (DA6004) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 A bove to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weekly assignment scores
+
+--- Chunk 178 | 30 . Operating Systems (CS4022) | types: ['heading', 'paragraph'] ---
+30 . Operating Systems (CS4022) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write end term exam: Average of the best 5 out of the first 7 weeks of weekly assignment scores >
+
+--- Chunk 179 | 31 . Discrete Mathematics (MA3001) | types: ['heading', 'paragraph'] ---
+31 . Discrete Mathematics (MA3001) Quiz 1: November  15 2026           Quiz 2: December 5 2026                End term:  January 10 2027 Above to be attended in person at designated centres. Eligibility to write the final exam: Average of the best 5 out of the first 7 weekly assignment scores >= 40/
+
+--- Chunk 180 | 32 . Digital IC Design  ( EE5102 ) | types: ['unordered_list', 'heading', 'paragraph'] ---
+32 . Digital IC Design  ( EE5102 ) Quiz 1: Sunday, November 15th, 2026 Quiz 2: Saturday, December 5th, 2026                  End Term: Sunday, January 10, 2027 Above to be attended in person at designated centers. Prerequisites: None Corequisites : None Credits: 4 Eligibility to write the final exam
+
+--- Chunk 181 | 33 . Electronic Testing and Measurement (EE2105) | types: ['unordered_list', 'heading', 'paragraph'] ---
+33 . Electronic Testing and Measurement (EE2105) Quiz 1: Sunday, November 15th, 2026 Quiz 2: Saturday, December 5th, 2026                  End Term: Sunday, January 10, 2027 Above to be attended in person at designated centers. Prerequisites: None Corequisites : None Credits: 4 Eligibility to write 
+
+--- Chunk 182 | 34 . Communication Systems (EE4103) | types: ['unordered_list', 'heading', 'paragraph'] ---
+34 . Communication Systems (EE4103) Quiz 1: Sunday, November 15th, 2026 Quiz 2: Saturday, December 5th, 2026                  End Term: Sunday, January 10, 2027 Above to be attended in person at designated centers. Prerequisites:None Credits: 4 Eligibility to write the final exam: - Average of the b
+
+--- Chunk 183 | 35 . Digital System Design (EE2103) | types: ['unordered_list', 'heading', 'paragraph'] ---
+35 . Digital System Design (EE2103) Quiz 1: Sunday, November 15th, 2026 Quiz 2: Saturday, December 5th, 2026                  End Term: Sunday, January 10, 2027 Above to be attended in person at designated centers. Prerequisites: None Corequisites : None Credits: 4 Eligibility to write the final exa
+
+--- Chunk 184 | 36 . Computer Organization (EE2106) | types: ['unordered_list', 'heading', 'paragraph'] ---
+36 . Computer Organization (EE2106) Quiz 1: Sunday, November 15th, 2026 Quiz 2: Saturday, December 5th, 2026                  End Term: Sunday, January 10, 2027 Above to be attended in person at designated centers. Prerequisites: None Credits: 4 Eligibility to write the final exam: - Average of the 
+
+--- Chunk 185 | A nnexure I | types: ['table', 'paragraph'] ---
+Headers: ['Course ID', 'Course Level', 'Course Name', 'Course Type', 'Prerequisite code', 'CoRequisite code', 'Credits', 'Sep 2026', 'Jan 2027', 'May 2027', 'Sep 2027', 'CourseFee', 'New Course Fee for Students started foundation level on or after Jan 2026 term']
+Rows: [['BSCS3001', 'DEGREE', 'Software Engineering', 'Core_BP', '', '', '4', 'Y', 'Y', 'Y', 'Y', '10000', '12000'], ['BSCS3002', 'DEGREE', 'Software Testing', 'Core_BP', '-', '-', '4', 'Y', 'Y', 'Y', 'Y', '10000', '12000']]
+A nnexure I SCHEDULE IS TENTATIVE AND SUBJECT TO CHANGE DEPENDING ON FACULTY AVAILABILITY AND NUMBER OF STUDENTS WHO REGISTER TO THE COURSES. IF THE REGISTRATION TO ANY COURSE IS VERY LESS, THE COURSE OFFERING MAY BE CANCELLED IN THE TERM. MODE OF ANNOUNCEMENTS: IMPORTANT: Students are required to s

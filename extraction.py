@@ -84,7 +84,8 @@ def extract_document(content, source_name):
     for element in content.find_all(
         ["h1", "h2", "h3", "p", "ol", "ul", "table"]
     ):
-
+        if element.name in ["p", "ol", "ul"] and element.find_parent("table"):
+            continue
         # -------------------------
         # HEADINGS
         # -------------------------
@@ -182,6 +183,8 @@ def extract_document(content, source_name):
                     "text": text,
                     "type": "table",
                     "section": current_section,
+                    "headers": rows[0] if rows else [],
+                    "rows": rows[1:] if len(rows) > 1 else [],
                     "source": source_name
                 })
 
@@ -217,7 +220,7 @@ for document in documents:
 # -----------------------------------------
 
 with open(
-    "source.txt",
+    "source1.txt",
     "w",
     encoding="utf-8"
 ) as f:
@@ -245,8 +248,19 @@ with open(
                 f"[SECTION: {chunk['section']}]\n"
             )
 
-            f.write(
-                chunk["text"]
-            )
+            if "headers" in chunk and "rows" in chunk:
+                f.write(
+                    f"[HEADERS: {', '.join(chunk['headers'])}]\n"
+                )
+
+                for row in chunk["rows"]:
+                    f.write(
+                        f"[ROW: {', '.join(row)}]\n"
+                    )
+            else:
+                f.write(
+                    f"{chunk['text']}\n"
+                )
+            
 
             f.write("\n\n")
