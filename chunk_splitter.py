@@ -1,5 +1,6 @@
 import tiktoken
 from chunk_stratergy import chunk_source_by_section
+from chunk_stratergy import check_token_sizes
 
 TOKEN_LIMIT = 1000
 ROWS_PER_SPLIT = 12
@@ -64,6 +65,8 @@ def split_large_chunks(chunks):
 if __name__ == "__main__":
     chunks = chunk_source_by_section("source1.txt")
     chunks = split_large_chunks(chunks)
+    chunks = check_token_sizes(chunks)
+    
     for i, chunk in enumerate(chunks, 1):
         print(f"\n--- Chunk {i} | {chunk['section']} | types: {chunk['types']} ---")
         if 'tables' in chunk:

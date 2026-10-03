@@ -104,8 +104,8 @@ def check_token_sizes(chunks, model="text-embedding-3-small"):
     print(f"Chunks > 512 tokens: {len(large_chunks)}")
     print(f"Chunks <= 512 tokens: {len(small_chunks)} | avg: {avg_small:.1f} | min: {min_small} | max: {max_small}")
 
-    tiny_chunks = [c for c in chunks if c["tokens"] < 50]
-    print(f"\nChunks < 50 tokens: {len(tiny_chunks)}")
+    tiny_chunks = [c for c in chunks if c["tokens"] < 100]
+    print(f"\nChunks < 100 tokens: {len(tiny_chunks)}")
     for chunk in tiny_chunks:
         print(f"  Chunk {chunk['chunk_index']} | Tokens: {chunk['tokens']} | Section: {chunk['section']}")
         if 'content' in chunk:
