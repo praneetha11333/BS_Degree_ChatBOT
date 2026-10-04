@@ -4,6 +4,7 @@ import streamlit as st
 from dotenv import load_dotenv
 from qdrant_client import QdrantClient
 from rank_bm25 import BM25Okapi
+from semantic_cache import SemanticCache
 
 load_dotenv()
 
@@ -22,10 +23,9 @@ def load_index():
     id_to_text = {pid: text for pid, text in zip(ids, texts)}
     return bm25, ids, id_to_text
 
-def retrieve(query, k=5):
+def retrieve(query, q_emb, k=5):
     bm25, ids, id_to_text = load_index()
 
-    q_emb = oai.embeddings.create(input=query, model="text-embedding-3-small").data[0].embedding
     dense_ids = [str(r.id) for r in client.query_points(collection_name="BS-DOCS", query=q_emb, limit=k * 2).points]
 
     scores = bm25.get_scores(query.lower().split())
@@ -51,14 +51,23 @@ def answer(query, contexts):
     )
     return resp.choices[0].message.content
 
+cache = SemanticCache()
+
 st.title("BS Degree Query Engine")
 st.write("Ask me anything about the BS degree!")
 
 ask = st.text_input("Enter your question here:")
 if st.button("Submit") and ask:
-    with st.spinner("Retrieving..."):
-        contexts = retrieve(ask)
-    with st.spinner("Generating answer..."):
-        response = answer(ask, contexts)
-    st.markdown(response)
-   
+    q_emb = oai.embeddings.create(input=ask, model="text-embedding-3-small").data[0].embedding
+    cached = cache.get(q_emb)
+    if cached:
+        st.markdown(cached)
+        st.caption("⚡ answered from cache")
+    else:
+        with st.spinner("Retrieving..."):
+            contexts = retrieve(ask, q_emb)
+        with st.spinner("Generating answer..."):
+            response = answer(ask, contexts)
+        cache.set(ask, response, q_emb)
+        st.markdown(response)
+      

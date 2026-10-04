@@ -125,15 +125,4 @@ def check_token_sizes(chunks, model="text-embedding-3-small"):
     return chunks
 
 
-if __name__ == "__main__":
-    chunks = chunk_source_by_section('source1.txt')
-    chunks = check_token_sizes(chunks)
-    for i, chunk in enumerate(chunks, 1):
-        print(f"\n--- Chunk {i} | {chunk['section']} | types: {chunk['types']} ---")
-        if 'tables' in chunk:
-            for t, table in enumerate(chunk['tables'], 1):
-                print(f"  Table {t} Headers: {table['headers']}")
-                for row in table['rows']:
-                    print(f"    Row: {row}")
-        if 'content' in chunk:
-            print(chunk['content'])
+
