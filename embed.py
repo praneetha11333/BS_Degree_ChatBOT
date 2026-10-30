@@ -16,7 +16,7 @@ oai = openai.OpenAI(
     base_url="https://aipipe.org/openai/v1",
 )
 
-client = QdrantClient("http://localhost:6333")
+client = QdrantClient("path="./qdrant_storage"")
 
 client.recreate_collection(
     collection_name="BS-DOCS",
