@@ -12,7 +12,10 @@ oai = openai.OpenAI(
     api_key=os.environ["AIPIPE_API_KEY"],
     base_url="https://aipipe.org/openai/v1",
 )
-client = QdrantClient(path="./qdrant_storage")
+@st.cache_resource
+def get_qdrant_client():
+    return QdrantClient(path="./qdrant_storage")
+client = get_qdrant_client()
 
 @st.cache_resource
 def load_index():
